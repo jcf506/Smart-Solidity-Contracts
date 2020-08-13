@@ -1,5 +1,5 @@
 These contracts are designed to create efficiency and security in the allocation of
-compensetory provisions. The Associate Profit Splitter facillitates the distribution of
+compensatory provisions. The Associate Profit Splitter facillitates the distribution of
 company profits sending the remainder back to the human resources department, that is charged with 
 that task.  Based on the weight of the employees value to the organization,
 the CEO gets the remainders of undistributed wei (the denomination of ether cryptocurrency coin)
